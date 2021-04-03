@@ -5,6 +5,11 @@
 npm install
 ```
 
+## You must link with json-server
+```
+npm install json-server
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
